@@ -3,5 +3,6 @@
 <html>
 <body>
 <h2><cc:Hello/></h2>
+<h2><cc:Greeting/></h2>
 </body>
 </html>
